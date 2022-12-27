@@ -2,6 +2,7 @@
 
 
 ```python
+$pip install disable-warnings
 # Start your script with:
 from disable_warnings import *
 ```
